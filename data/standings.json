@@ -1,0 +1,425 @@
+[
+  {
+    "team_key": "363.l.31357.t.2",
+    "team_id": "2",
+    "name": "The Puck Grenouilles",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/2",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "http://l.yimg.com/dh/ap/fantasy/img/nhl/icon_08_100.png"
+      }
+    ],
+    "waiver_priority": 7,
+    "number_of_moves": "5",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "1"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 9,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "2",
+        "nickname": "--hidden--",
+        "guid": "SIXIMFBRFLLER3KXUX2G7BNQHA"
+      }
+    ],
+    "standings": {
+      "rank": "1",
+      "points_for": "562.90",
+      "points_change": "8.50",
+      "points_back": "0.00"
+    }
+  }, {
+    "team_key": "363.l.31357.t.3",
+    "team_id": "3",
+    "name": "Poupy Wouf",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/3",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://ct.yimg.com/cy/8282/29990855536_7ebe638d96_192sq.jpg?ct=fantasy"
+      }
+    ],
+    "waiver_priority": 2,
+    "number_of_moves": "5",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "2"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 6,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "3",
+        "nickname": "--hidden--",
+        "guid": "J6QPCO5PDUGYGFR7UNJUHYKZDM"
+      }
+    ],
+    "standings": {
+      "rank": "2",
+      "points_for": "535.60",
+      "points_change": "0.40",
+      "points_back": "27.30"
+    }
+  }, {
+    "team_key": "363.l.31357.t.4",
+    "team_id": "4",
+    "name": "Steel Blades",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/4",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://ct.yimg.com/cy/1614/25340230375_1b77868321_192sq.jpg?ct=fantasy"
+      }
+    ],
+    "waiver_priority": 11,
+    "number_of_moves": "2",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "1"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 1,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "4",
+        "nickname": "--hidden--",
+        "guid": "RG6AVYER4GZ7BMVL7GFNMRDIP4"
+      }
+    ],
+    "standings": {
+      "rank": "3",
+      "points_for": "465.50",
+      "points_change": "1.20",
+      "points_back": "97.40"
+    }
+  }, {
+    "team_key": "363.l.31357.t.1",
+    "team_id": "1",
+    "name": "Erebor Dwarves",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/1",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://ct.yimg.com/cy/1514/24705290634_21b2c596bd_192sq.jpg?ct=fantasy"
+      }
+    ],
+    "waiver_priority": 3,
+    "number_of_moves": "7",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "2"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 4,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "1",
+        "nickname": "--hidden--",
+        "guid": "XDUAC6C7KGBDNY3XQG4LCJLY34",
+        "is_commissioner": "1"
+      }
+    ],
+    "standings": {
+      "rank": "4",
+      "points_for": "459.50",
+      "points_change": "8.00",
+      "points_back": "103.40"
+    }
+  }, {
+    "team_key": "363.l.31357.t.8",
+    "team_id": "8",
+    "name": "Blade Runner's",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/8",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://secure.gravatar.com/avatar/2f480478d831783241beff372349e127?d=http%3A%2F%2Fl.yimg.com%2Fdh%2Fap%2Ffantasy%2Fimg%2Fprofile_96.png&s=96&r=r"
+      }
+    ],
+    "waiver_priority": 6,
+    "number_of_moves": "13",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "4"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 5,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "8",
+        "nickname": "--hidden--",
+        "guid": "U7GSZUBODVYG5ANPZLPH6FIJAM"
+      }
+    ],
+    "standings": {
+      "rank": "5",
+      "points_for": "439.50",
+      "points_change": "27.80",
+      "points_back": "123.40"
+    }
+  }, {
+    "team_key": "363.l.31357.t.7",
+    "team_id": "7",
+    "name": "Eagle Skull of Death",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/7",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://secure.gravatar.com/avatar/c5f38b847304c20b0f5da675d0f33500?d=http%3A%2F%2Fl.yimg.com%2Fdh%2Fap%2Ffantasy%2Fimg%2Fprofile_96.png&s=96&r=r"
+      }
+    ],
+    "waiver_priority": 12,
+    "number_of_moves": "26",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "3"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 12,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "7",
+        "nickname": "--hidden--",
+        "guid": "HQQUKQ2P56SWRO333TWMXET3UU"
+      }
+    ],
+    "standings": {
+      "rank": "6",
+      "points_for": "420.80",
+      "points_change": "10.30",
+      "points_back": "142.10"
+    }
+  }, {
+    "team_key": "363.l.31357.t.10",
+    "team_id": "10",
+    "name": "The Orlando Magic",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/10",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "http://l.yimg.com/dh/ap/fantasy/img/nhl/icon_11_100.png"
+      }
+    ],
+    "waiver_priority": 9,
+    "number_of_moves": "6",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "3"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 11,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "10",
+        "nickname": "--hidden--",
+        "guid": "RQDV63OQ2BUVC7MM64B7IR4HNQ"
+      }
+    ],
+    "standings": {
+      "rank": "7",
+      "points_for": "396.80",
+      "points_change": "0.00",
+      "points_back": "166.10"
+    }
+  }, {
+    "team_key": "363.l.31357.t.9",
+    "team_id": "9",
+    "name": "The Super Dupers",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/9",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "http://l.yimg.com/dh/ap/fantasy/img/nhl/icon_09_100.png"
+      }
+    ],
+    "waiver_priority": 1,
+    "number_of_moves": "1",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "1"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 10,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "9",
+        "nickname": "--hidden--",
+        "guid": "L2PABBPEFNFUHWPVYT3UASSC7Y"
+      }
+    ],
+    "standings": {
+      "rank": "8",
+      "points_for": "391.45",
+      "points_change": "7.20",
+      "points_back": "171.45"
+    }
+  }, {
+    "team_key": "363.l.31357.t.5",
+    "team_id": "5",
+    "name": "The Phreds",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/5",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://secure.gravatar.com/avatar/f2ffa8890f421b83b0f2b7eefdab2f16?d=http%3A%2F%2Fl.yimg.com%2Fdh%2Fap%2Ffantasy%2Fimg%2Fprofile_96.png&s=96&r=r"
+      }
+    ],
+    "waiver_priority": 8,
+    "number_of_moves": "4",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "1"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 8,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "5",
+        "nickname": "--hidden--",
+        "guid": "7JBHBUTLC6FDPVOTRTFSRFYMJU",
+        "is_commissioner": "1"
+      }
+    ],
+    "standings": {
+      "rank": "9",
+      "points_for": "386.25",
+      "points_change": "6.20",
+      "points_back": "176.65"
+    }
+  }, {
+    "team_key": "363.l.31357.t.12",
+    "team_id": "12",
+    "name": "Ice Blacks",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/12",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://ct.yimg.com/cy/5227/30318252490_a11260aef2_192sq.jpg?ct=fantasy"
+      }
+    ],
+    "waiver_priority": 5,
+    "number_of_moves": 0,
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "0"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 2,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "12",
+        "nickname": "--hidden--",
+        "guid": "PVBPKNARYN2VFWI4M6OZ55BKZE"
+      }
+    ],
+    "standings": {
+      "rank": "10",
+      "points_for": "369.40",
+      "points_change": "7.40",
+      "points_back": "193.50"
+    }
+  }, {
+    "team_key": "363.l.31357.t.11",
+    "team_id": "11",
+    "name": "Shruti Frutti Team",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/11",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "http://l.yimg.com/dh/ap/fantasy/img/nhl/icon_11_100.png"
+      }
+    ],
+    "waiver_priority": 4,
+    "number_of_moves": 0,
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "0"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 3,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "11",
+        "nickname": "--hidden--",
+        "guid": "X7SEYP64YTI4IH5PGBKBMCEPTQ"
+      }
+    ],
+    "standings": {
+      "rank": "11",
+      "points_for": "353.00",
+      "points_change": "0.40",
+      "points_back": "209.90"
+    }
+  }, {
+    "team_key": "363.l.31357.t.6",
+    "team_id": "6",
+    "name": "The Swifts",
+    "url": "http://hockey.fantasysports.yahoo.com/hockey/31357/6",
+    "team_logos": [
+      {
+        "size": "large",
+        "url": "https://ct.yimg.com/cy/1559/25311036286_64ed454f25_192sq.jpg?ct=fantasy"
+      }
+    ],
+    "waiver_priority": 10,
+    "number_of_moves": "4",
+    "number_of_trades": 0,
+    "roster_adds": {
+      "coverage_type": "week",
+      "coverage_value": 3,
+      "value": "2"
+    },
+    "league_scoring_type": "point",
+    "draft_position": 7,
+    "has_draft_grade": 0,
+    "managers": [
+      {
+        "manager_id": "6",
+        "nickname": "--hidden--",
+        "guid": "X3AHLE25LO6E5DR3WWHY7V7SAQ"
+      }
+    ],
+    "standings": {
+      "rank": "12",
+      "points_for": "326.80",
+      "points_change": "3.00",
+      "points_back": "236.10"
+    }
+  }
+]

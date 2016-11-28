@@ -1,0 +1,48 @@
+{
+    "transaction_key": "363.l.93778.tr.3",
+    "transaction_id": "3",
+    "type": "add/drop",
+    "status": "successful",
+    "timestamp": "1477767780",
+    "players": [{
+        "player_key": "363.p.4246",
+        "player_id": "4246",
+        "name": {
+            "full": "Jakub Voracek",
+            "first": "Jakub",
+            "last": "Voracek",
+            "ascii_first": "Jakub",
+            "ascii_last": "Voracek"
+        },
+        "editorial_team_abbr": "Phi",
+        "display_position": "LW,RW",
+        "position_type": "P",
+        "transaction_data": {
+            "type": "add",
+            "source_type": "freeagents",
+            "destination_type": "team",
+            "destination_team_key": "363.l.93778.t.1",
+            "destination_team_name": "Angry Cats"
+        }
+    }, {
+        "player_key": "363.p.3983",
+        "player_id": "3983",
+        "name": {
+            "full": "Phil Kessel",
+            "first": "Phil",
+            "last": "Kessel",
+            "ascii_first": "Phil",
+            "ascii_last": "Kessel"
+        },
+        "editorial_team_abbr": "Pit",
+        "display_position": "RW",
+        "position_type": "P",
+        "transaction_data": {
+            "type": "drop",
+            "source_type": "team",
+            "source_team_key": "363.l.93778.t.1",
+            "source_team_name": "Angry Cats",
+            "destination_type": "freeagents"
+        }
+    }]
+}

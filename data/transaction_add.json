@@ -1,0 +1,30 @@
+{
+    "transaction_key": "363.l.93778.tr.2",
+    "transaction_id": "2",
+    "type": "add",
+    "status": "successful",
+    "timestamp": "1477767066",
+    "players": [
+        {
+            "player_key": "363.p.6374",
+            "player_id": "6374",
+            "name": {
+                "full": "William Nylander",
+                "first": "William",
+                "last": "Nylander",
+                "ascii_first": "William",
+                "ascii_last": "Nylander"
+            },
+            "editorial_team_abbr": "Tor",
+            "display_position": "C,RW",
+            "position_type": "P",
+            "transaction_data": {
+                "type": "add",
+                "source_type": "freeagents",
+                "destination_type": "team",
+                "destination_team_key": "363.l.93778.t.1",
+                "destination_team_name": "Angry Cats"
+            }
+        }
+    ]
+}

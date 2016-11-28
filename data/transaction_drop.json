@@ -1,0 +1,28 @@
+{
+  "transaction_key": "363.l.93778.tr.4",
+  "transaction_id": "4",
+  "type": "drop",
+  "status": "successful",
+  "timestamp": "1477767862",
+  "players": [{
+      "player_key": "363.p.4261",
+      "player_id": "4261",
+      "name": {
+          "full": "Max Pacioretty",
+          "first": "Max",
+          "last": "Pacioretty",
+          "ascii_first": "Max",
+          "ascii_last": "Pacioretty"
+      },
+      "editorial_team_abbr": "Mon",
+      "display_position": "LW",
+      "position_type": "P",
+      "transaction_data": {
+          "type": "drop",
+          "source_type": "team",
+          "source_team_key": "363.l.93778.t.1",
+          "source_team_name": "Angry Cats",
+          "destination_type": "freeagents"
+      }
+  }]
+}
