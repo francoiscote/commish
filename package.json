@@ -8,7 +8,7 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha --recursive --watch test"
   },
   "author": "François Côté <fcote@shutterstock.com>",
   "license": "MIT",
@@ -16,9 +16,19 @@
     "botkit": "^0.4.0",
     "yahoo-fantasy": "^1.0.2"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  },
   "repository": {
     "type": "git",
-    "url": "https://github.com/francoiscote/commish.git"
+    "url": "git+https://github.com/francoiscote/commish.git"
+  },
+  "bugs": {
+    "url": "https://github.com/francoiscote/commish/issues"
+  },
+  "homepage": "https://github.com/francoiscote/commish#readme",
+  "directories": {
+    "test": "test"
   }
 }

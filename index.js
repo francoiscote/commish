@@ -9,7 +9,7 @@ class Commish {
 
         this.name = name;
 
-        // Options
+        // Config = defaults + opts
         const defaults = {
             botkit: {}
         };
